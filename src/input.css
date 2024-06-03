@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Clash Display';
+  font-weight: 300;
+  src: url('../public/fonts/ClashDisplay-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Clash Display';
+  font-weight: 400;
+  src: url('../public/fonts/ClashDisplay-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Clash Display';
+  font-weight: 700;
+  src: url('../public/fonts/ClashDisplay-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Clash Display';
+  font-weight: 900;
+  src: url('../public/fonts/ClashDisplay-Black.otf') format('opentype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
